@@ -1,7 +1,6 @@
-Arif Hosain
-arif3hosain@gmail.com
+## Contact Information
 
-
-Whatsapp/Telegram
-+880 1754282387
-Bangladesh
+- **Name:** Arif Hosain
+- **Email:** arif3hosain@gmail.com
+- **WhatsApp/Telegram:** [+880 1754282387](tel:+8801754282387)
+- **Country:** Bangladesh
